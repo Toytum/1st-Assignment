@@ -1,0 +1,18 @@
+#images{
+    text-align: center;
+}
+
+figure{  
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+figure img{
+    vertical-align: top;
+    height: 300px;
+    width: 400px;
+}
+
+figure figcaption{
+    text-align: center;    
+}
